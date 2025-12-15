@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshrbj&label=Profile%20views&color=0e75b6&style=flat" alt="imeshrbj" /> </p>
 
-- 🔭 I’m currently working on **A To-Do App Development**
+- 🔭 I’m currently working on **A To-Do App Development UI**
 
 - 🌱 I’m currently learning **BSc (Hons) in Information Technology at SLIIT**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **UI/UX Development**
 
 - 📫 How to reach me **imeshjayasundara02@gmail.com**
 
