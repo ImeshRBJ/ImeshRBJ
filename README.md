@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imesh Jayasundara</h1>
-<h3 align="center">A passionate UI/UX Design from Sri Lanka</h3>
+<h3 align="center">A passionate UI/UX Design & Web Development from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imeshrbj&label=Profile%20views&color=0e75b6&style=flat" alt="imeshrbj" /> </p>
 
