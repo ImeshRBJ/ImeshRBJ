@@ -14,31 +14,19 @@
 - ⚡ Fun fact **I sometimes console.log() my feelings.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="
-  display: flex;
-  gap: 20px;              /* space between icons */
-  align-items: center;
-  padding: 8px 0;         /* top & bottom spacing
-">
+<p align="left">
+  <a href="http://www.linkedin.com/in/imesh-jayasundara" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         height="32" width="32" />
+  </a>
 
-<a href="http://www.linkedin.com/in/imesh-jayasundara" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="LinkedIn"
-       height="32"
-       width="32"
-       style="margin-right: 5px;" />
-</a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
 
-<a href="https://www.facebook.com/share/178jmyxxrd/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-       alt="Facebook"
-       height="32"
-       width="32"
-       style="margin-right: 5px;" />
-</a>
-
+  <a href="https://www.facebook.com/share/178jmyxxrd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+         height="32" width="32" />
+  </a>
 </p>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
