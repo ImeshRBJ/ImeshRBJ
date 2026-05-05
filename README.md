@@ -15,17 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="http://www.linkedin.com/in/imesh-jayasundara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         height="32" width="32" />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
-
-  <a href="https://www.facebook.com/share/178jmyxxrd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-         height="32" width="32" />
-  </a>
+<a href="http://www.linkedin.com/in/imesh-jayasundara" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="32"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/178jmyxxrd/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="32" width="32"/></a>
 </p>
 
 
