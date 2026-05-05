@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
